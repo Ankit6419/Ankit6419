@@ -1,11 +1,14 @@
 ### Hi, I'm Ankit 👋
 
-🚀 Python Learner from Ahmedabad
+💻 Frontend Learner from Ahmedabad
 📍 Gujarat, India
-🌱 Learning Python & GitHub
-🎯 Goal: Become a Developer
+🌱 Currently learning: HTML, CSS
+➡️ Next Goal: Learn JavaScript
+🎯 Dream: Become a Full Stack Developer
 
 ### 🛠️ Skills
-`Python` `GitHub`
+`HTML5` `CSS3` `GitHub`
+
+> I studied Python basics in Sem 1
 
 ⭐ Welcome to my profile! - Ankit6419
